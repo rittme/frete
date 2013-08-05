@@ -1,0 +1,9 @@
+*.exe
+*.rar
+*.o
+*.a
+*.so
+
+_obj
+_test
+fretes/
